@@ -6,7 +6,7 @@ import streamlit as st
 
 st.title("Main Page")
 st.title(":blue[Select the page from the side pannel]")
-st.image('frame1.jpg',caption='Frame')
+st.image('frame1.JPG',caption='Frame')
 
 
 
